@@ -17,9 +17,7 @@ programa
 		escreva("\n----Login cadastrado----\n")
 		escreva("Crie uma senha (numeros): ")
 		leia (csenha)
-		escreva("\n----Senha cadastrada----\n")
-
-		
+		escreva("\n----Senha cadastrada----\n")	
 
 		enquanto (cont>0 e autentificador == falso){
 			escreva("Digite seu login para entrar: ")
@@ -46,7 +44,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 464; 
+ * @POSICAO-CURSOR = 546; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
